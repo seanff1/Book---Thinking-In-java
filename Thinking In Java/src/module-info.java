@@ -1,0 +1,2 @@
+module thinkingInJava1 {
+}
